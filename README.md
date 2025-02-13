@@ -42,3 +42,7 @@ Can your model differentiate between healthy and unhealthy person correctly? Let
 -----------------------------------------------------
 ![image](https://github.com/user-attachments/assets/80199072-6e78-447f-b74b-4020cea5a340)
 ![image](https://github.com/user-attachments/assets/4af77dfd-a1b7-4215-8dde-5198e0b1fbcf)
+
+------------------------------------------------------------
+
+#### *Full solution access -* [Fitness & Lifestyle Prediction Colab link](https://colab.research.google.com/drive/1PzI_QAS2tDw8BMgN2lZOqNJiSc6WkLeU?usp=sharing)
